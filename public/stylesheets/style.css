@@ -1,0 +1,84 @@
+
+#nb {
+	text-align: center;
+	font-weight: 600;
+	background: var(--lg-color);
+	justify-content: center;
+}
+#nb1{
+	color:white;
+}
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	background-color:rgb(191, 207, 223);
+	
+  }
+  :root{
+	--lg-color: linear-gradient( to right, black, grey);
+  }
+#a{
+	margin-top: 30px;
+	font-weight: 600;
+}
+#b{
+	padding-top: 20px;
+}
+#c{
+	font-family: cursive;
+	text-align: center;
+	margin-top: 50px;
+	font-weight: 700;
+}
+#e{
+	margin-top: 30px;
+	
+		color: white;
+		background: linear-gradient( to left, black, rgb(129, 100, 129));
+		font-weight: bold;
+	 
+}
+#f{
+	font-weight: 500;
+	font-size: 15px;
+}
+#g{
+	color: white;
+	background: linear-gradient( to left, black, grey);
+	font-weight: bold;
+}
+#h{
+	color: white;
+	background: linear-gradient( to left, black, pink);
+	font-weight: bold;
+}
+#i{
+	color: white;
+	background: linear-gradient( to left, black, skyblue);
+	font-weight: bold;
+}
+#j{
+	font-size: 15px;
+	font-weight: lighter;
+}
+#k{
+	color: white;
+	background: linear-gradient( to left, black, rgb(204, 69, 69));
+	font-weight: bold;
+}
+#l{
+	color: white;
+	background: linear-gradient( to left, black, purple);
+	font-weight: bold;
+}
+#img1 a{
+	border: 4px solid black;
+	margin-top: 40px;
+	height: 580px;
+	width: 100%; 
+	float: left;  
+	background-image: url(./13.png);
+	background-size: cover;
+	background-position: center;   
+  }
+  
